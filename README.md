@@ -9,12 +9,11 @@ Each entry includes the paper title, publication venue, publication year, and a 
 
 ---
 
-### 📘 CCF A Conference Papers
+### 📘 CCF A Conference/Journal Papers
 
 | Title                                                                              | Venue        | Year   | Code                                                    |
 | ---------------------------------------------------------------------------------- | ------------ | ------ | ------------------------------------------------------- |
-| Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces | ICDE (CCF A) | 2025   | [🔗 BioVSS Code](https://github.com/whu-totemdb/biovss) |
-| *\[Add more papers here]*                                                          | *Venue*      | *Year* | *Link*                                                  |
+| Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces (accepted) | ICDE (CCF A) | 2025   | [🔗 BioVSS Code](https://github.com/whu-totemdb/biovss) |
 
 ---
 
