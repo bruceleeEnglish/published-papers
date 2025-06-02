@@ -22,7 +22,8 @@ Each entry includes the paper title, publication venue, publication year, and a 
 
 | Title                                                                                   | Journal                           | Year         | Code                   |
 | --------------------------------------------------------------------------------------- | --------------------------------- | ------------ | ---------------------- |
-| *\[Example: Dual-Adapter Co-Optimization for Online Clustering in Sustainable Systems]* | Knowledge-Based Systems (KBS, Q1) | *2025 (TBD)* | *\[Link if available]* |
+| *Efficient Low-rank Index Routing for High-Dimensional Approxi-
+mate Nearest Neighbor Search* | Knowledge-Based Systems (KBS, Q1) | *2025 (TBD)* | *\[Link if available]* |
 | *\[Add more papers here]*                                                               | *Journal*                         | *Year*       | *Link*                 |
 
 ---
