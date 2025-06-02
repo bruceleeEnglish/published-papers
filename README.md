@@ -1,25 +1,34 @@
-## 📢 Official Repository for ICDE 2025 Paper (CCF-A)
+## 🧠 Bruce Lee's Published Papers
 
-This repository hosts the official codebase for our paper:
+This repository contains a curated list of my **published research papers**, organized by category:
 
-**“Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces”**,
-published at **ICDE 2025** (a CCF-A ranked conference).
+* 📘 **CCF A Conference Papers**
+* 📗 **SCI Q1 Journal Papers**
 
-🧬 **Overview:**
-This project proposes a novel bio-inspired method for efficient approximate vector set search in high-dimensional spaces. The algorithm is motivated by biological selection and clustering mechanisms and is tailored for large-scale similarity search tasks in areas such as bioinformatics, machine learning, and data mining.
-
----
-
-📍 **Repository Relocation Notice**
-
-The source code for this paper has been officially transferred to the **Wuhan University organization repository** for long-term maintenance and open access:
-
-🔗 [https://github.com/whu-totemdb/biovss](https://github.com/whu-totemdb/biovss)
-
-We encourage users to follow the new repository for updates, documentation, and further research collaboration.
+Each entry includes the paper title, publication venue, publication year, and a link to code (if applicable).
 
 ---
 
-📄 Citation:
+### 📘 CCF A Conference Papers
 
-If you use this code in your research, please cite the corresponding ICDE 2025 paper (citation format to be provided upon camera-ready release).
+| Title                                                                              | Venue        | Year   | Code                                                    |
+| ---------------------------------------------------------------------------------- | ------------ | ------ | ------------------------------------------------------- |
+| Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces | ICDE (CCF A) | 2025   | [🔗 BioVSS Code](https://github.com/whu-totemdb/biovss) |
+| *\[Add more papers here]*                                                          | *Venue*      | *Year* | *Link*                                                  |
+
+---
+
+### 📗 SCI Q1 Journal Papers
+
+| Title                                                                                   | Journal                           | Year         | Code                   |
+| --------------------------------------------------------------------------------------- | --------------------------------- | ------------ | ---------------------- |
+| *\[Example: Dual-Adapter Co-Optimization for Online Clustering in Sustainable Systems]* | Knowledge-Based Systems (KBS, Q1) | *2025 (TBD)* | *\[Link if available]* |
+| *\[Add more papers here]*                                                               | *Journal*                         | *Year*       | *Link*                 |
+
+---
+
+### 📌 Notes
+
+* This repository will be updated continuously as new papers are published.
+* Code and data for each project are provided in individual repositories where applicable.
+* For collaboration or questions, feel free to reach out via GitHub or academic email.
