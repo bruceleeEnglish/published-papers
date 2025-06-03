@@ -14,15 +14,15 @@ Each entry includes the paper title, publication venue, publication year, and a 
 | Title                                                                              | Venue        | Year   | Code                                                    |
 | ---------------------------------------------------------------------------------- | ------------ | ------ | ------------------------------------------------------- |
 | Approximate Vector Set Search: A Bio-Inspired Approach for High-Dimensional Spaces (accepted) | ICDE (CCF A) | 2025   | [🔗 BioVSS Code](https://github.com/whu-totemdb/biovss) |
-
+| A Fly Brain-Inspired Framework for Approximate Vector Set Search in High Dimensions (Expanding) | Undetermined | 2026   | [🔗 BioVSS Code](https://github.com/whu-totemdb/biovss) |
 ---
 
 ### 📗 SCI Q1 Journal Papers
 
 | Title                                                                                   | Journal                           | Year         | Code                   |
 | --------------------------------------------------------------------------------------- | --------------------------------- | ------------ | ---------------------- |
-| *Efficient Low-rank Index Routing for High-Dimensional Approximate Nearest Neighbor Search(under review)* | Knowledge-Based Systems (KBS, Q1) | *2025 (TBD)* | *\[Link if available]* |
-| *\[Add more papers here]*                                                               | *Journal*                         | *Year*       | *Link*                 |
+| *Efficient Low-rank Index Routing for High-Dimensional Approximate Nearest Neighbor Search(under review)* | Knowledge-Based Systems (KBS, Q1) | *2025 (TBD)* | *\[Make public after acceptance.]* |
+| *Federal Multi-Perspective Clustering*                                                               | *Journal*                         | *Year*       | *\[Make public after acceptance.]*                 |
 
 ---
 
